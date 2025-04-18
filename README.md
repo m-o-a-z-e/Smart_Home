@@ -27,8 +27,6 @@ Controlled remotely via Bluetooth to simulate home lighting automation.
 3.8. Buzzer 
 Provides audible alerts for gas detection, intrusion, or unauthorized motion. 
 4. System Features - Environmental Monitoring: Real-time tracking of temperature and gas levels. - Intrusion Detection: Alerts triggered by motion or object detection. - Visual and Audio Alarms: Critical warnings are displayed on the LCD and indicated through buzzer sounds. - Bluetooth Lighting Control: Enables users to control lights using a smartphone app or serial interface. - Modular Design: The system is designed to be expandable with additional sensors or smart features. 
-You can Check the code and project updates with this drive folder: 
-https://drive.google.com/drive/folders/1bLnYCzU10pIaX9Jb_JNgRkYdRmHfu8Jg?usp=sharing  
 5. Conclusion 
 The proposed smart home prototype provides a practical and affordable solution to enhance home security and 
 automation. By integrating simple electronic components and wireless control, the system demonstrates the 
